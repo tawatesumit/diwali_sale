@@ -10,17 +10,19 @@
 
     composer update
 
-5.  Then run command
+5.  Rename .eve.example file to .env
+
+6.  Then run command
 
     php artisan serve
 
-6.  Download POSTMAN for testing API
+7.  Download POSTMAN for testing API
 
-7.  Project run and display local ip link after php artisan serve command, copy link paste in postman.
+8.  Project run and display local ip link after php artisan serve command, copy link paste in postman.
 
     (Ex. http://127.0.0.1:8001/api/orders)
 
-8.  Pass json array in postman using POST method.
+9.  Pass json array in postman using POST method.
     Ex.
     a. select (Body) type<br>
     b. under body parameter select (row)<br>
@@ -34,7 +36,7 @@
     <br><br>
     d.change products values for another rules. <br>
 
-9.  If csrf token create issue kindly go to browser and paste php artisan command given link.
+10. If csrf token create issue kindly go to browser and paste php artisan command given link.
 
 Ex. http://127.0.0.1:8001 <br>
 
