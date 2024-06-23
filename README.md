@@ -12,7 +12,7 @@
 
 5.  Rename .env.example file to .env
 
-6.  Run command for key genration <b>php artisan key:generate</b>
+6.  Run command for key genration => <b>php artisan key:generate</b>
 
 7.  Then run command
 
