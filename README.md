@@ -57,3 +57,5 @@ ex. <meta name="csrf-token" content="DQUOwAZXPjSUzth5nEVAzflCDhYapXeBbGCSRwht"> 
 3. run below command in vs code terminal
 
     Ex. php artisan migrate
+
+4. If database username and password is different kindly change into .env file.
